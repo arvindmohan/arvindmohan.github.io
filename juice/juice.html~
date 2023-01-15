@@ -1,0 +1,165 @@
+<!doctype html>
+<html class="no-js" lang="">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+        <title> Self - One Page Portfolio and Resume Cv</title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+       
+        <!-- Google Fonts -->
+        <link href='https://fonts.googleapis.com/css?family=Lato:400,700,400italic,300' rel='stylesheet' type='text/css'>
+
+		<!-- all css here -->
+
+		<!-- bootstrap v3.3.6 css -->
+        <link rel="stylesheet" href="css/bootstrap.min.css">
+        <!-- Animated text css -->
+		<link rel="stylesheet" href="css/animated.css">
+		<!-- owl.carousel css -->
+        <link rel="stylesheet" href="css/owl.carousel.css">
+        <link rel="stylesheet" href="css/owl.transitions.css">
+		<!-- font-awesome css -->
+        <link rel="stylesheet" href="css/font-awesome.min.css">
+        <!-- animate css -->
+        <link rel="stylesheet" href="css/animate.css">
+		<!-- style css -->
+		<link rel="stylesheet" href="style.css">
+		<!-- responsive css -->
+        <link rel="stylesheet" href="css/responsive.css">
+		<!-- modernizr css -->
+        <script src="js/vendor/modernizr-2.8.3.min.js"></script>
+    </head>
+    <body>
+        <!--[if lt IE 8]>
+            <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+        <![endif]-->
+
+        <header>
+            <!-- Start Top Header -->
+            <div id="sticker" class="header-area">
+                <div class="container">
+                    <!-- Navigation -->
+                    <nav class="navbar navbar-default">
+                        <!-- Brand and toggle get grouped for better mobile display -->
+                        <div class="navbar-header">
+                            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+                                <span class="sr-only">Toggle navigation</span>
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                            </button>
+                            <!-- Brand -->
+                        <a class="navbar-brand page-scroll" href="#page-top"><img src="img/logo/logo.png" alt=""></a>
+                        </div>
+                        <!-- Collect the nav links, forms, and other content for toggling -->
+                        <div class="collapse navbar-collapse main-menu" id="bs-example-navbar-collapse-1">
+                            <ul class="nav navbar-nav navbar-right">
+                                <li class="active">
+                                    <a class="page-scroll" href="../index.html#home">Home</a>
+                                </li>
+                                <li>
+                                    <a class="page-scroll" href="../index.html#about">About Me</a>
+                                </li>
+                                <li>
+                                    <a class="page-scroll" href="../index.html#skills">Research</a>
+                                </li>
+                                <li>
+                                   <a class="page-scroll" href="../index.html#skills">Publication</a>
+                                </li>
+                                <li>
+                                     <a class="page-scroll" href="../index.html#portfolio">Photography</a>
+                                </li>
+                             <!--   <li>
+                                    <a class="page-scroll" href="#blog">Blog</a>
+                                </li>-->
+                                <li>
+                                    <a class="page-scroll" href="../index.html#contact">Contact</a>
+                                </li>
+                            </ul>
+                        </div>
+                        <!-- navbar-collapse -->
+                    </nav>
+                    <!-- END: Navigation -->
+                </div>
+            </div>
+<br><br><br><br>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>Juicebox Gallery</title>
+	<meta charset="utf-8" />
+	<meta name="description" content="" />
+
+	<!-- START OPEN GRAPH TAGS-->
+	<meta property="og:title" content="Juicebox Gallery" />
+	<meta property="og:type" content="website" />
+	<meta property="og:url" content="" />
+	<meta property="og:image" content="" />
+	<meta property="og:description" content="" />
+	<!-- END OPEN GRAPH TAGS-->
+
+	<style type="text/css">
+	body {
+		margin: 0px;
+	}
+	</style>
+</head>
+<body>
+	<!--START JUICEBOX EMBED-->
+	<script src="jbcore/juicebox.js"></script>
+	<script>
+	new juicebox({
+		containerId: 'juicebox-container',
+		galleryWidth: '100%',
+		galleryHeight: '100%',
+		backgroundColor: 'rgba(255,255,255,1)'
+	});
+	</script>
+	<div id="juicebox-container"></div>
+	<!--END JUICEBOX EMBED-->
+</body>
+</html>
+        <!-- Start Footer bottom Area -->
+            <div class="footer-area">
+               <div class="container">
+                   <div class="row">
+                      <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                          <div class="copyright text-center">
+                            <p>Copyright © 2016 Avanish Mishra</a>. All Rights Reserved</p>
+                          </div>
+                       </div>
+                   </div>
+               </div>
+            </div>
+
+		<!-- all js here -->
+		<!-- jquery latest version -->
+        <script src="js/vendor/jquery-1.12.4.min.js"></script>
+		<!-- bootstrap js -->
+        <script src="js/bootstrap.min.js"></script>
+        <!-- Google Map js -->
+
+		<!-- owl.carousel js -->
+        <script src="js/owl.carousel.min.js"></script>
+        <!-- easing js -->
+        <script src="js/easing.js"></script>
+        <!-- jquery.appear js -->
+        <script src="js/jquery.appear.js"></script>
+        <!-- animated js -->
+        <script src="js/animated.js"></script>
+        <!-- Mixitup js -->
+        <script src="js/jquery.mixitup.min.js"></script>
+        <!-- wow js -->
+        <script src="js/wow.min.js"></script>
+        <!-- counter js -->
+        <script src="js/jquery.counterup.min.js"></script>
+        <script src="js/waypoints.js"></script>
+		<!-- plugins js -->
+        <script src="js/plugins.js"></script>
+		<!-- main js -->
+        <script src="js/main.js"></script>
+    </body>
+
+</html>

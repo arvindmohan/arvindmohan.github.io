@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	backgroundColor="rgba(255,255,255,1)"
+	showExpandButton="true"
+	useFullscreenExpand="true"
+	indexPageName="juice.html"
+
+>
+  <image imageURL="images/1.jpg"
+	thumbURL="thumbs/1.jpg"
+	linkURL="images/1.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\Website\avanish-try\fc-profy\img\portfolio\1.jpg">
+    <title><![CDATA[Nature]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/2.jpg"
+	thumbURL="thumbs/2.jpg"
+	linkURL="images/2.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\Website\avanish-try\fc-profy\img\portfolio\2.jpg">
+    <title><![CDATA[Wayanad]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/3.jpg"
+	thumbURL="thumbs/3.jpg"
+	linkURL="images/3.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\Website\avanish-try\fc-profy\img\portfolio\3.jpg">
+    <title><![CDATA[Lalbag]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/4.jpg"
+	thumbURL="thumbs/4.jpg"
+	linkURL="images/4.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\Website\avanish-try\fc-profy\img\portfolio\4.jpg">
+    <title><![CDATA[IISc]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/5.jpg"
+	thumbURL="thumbs/5.jpg"
+	linkURL="images/5.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\Website\avanish-try\fc-profy\img\portfolio\5.jpg">
+    <title><![CDATA[IISc]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/6.jpg"
+	thumbURL="thumbs/6.jpg"
+	linkURL="images/6.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\Website\avanish-try\fc-profy\img\portfolio\6.jpg">
+    <title><![CDATA[Campus]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/8.jpg"
+	thumbURL="thumbs/8.jpg"
+	linkURL="images/8.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\Website\avanish-try\fc-profy\img\portfolio\8.jpg">
+    <title><![CDATA[Lalbag]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/9.jpg"
+	thumbURL="thumbs/9.jpg"
+	linkURL="images/9.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\Website\avanish-try\fc-profy\img\portfolio\9.jpg">
+    <title><![CDATA[Nature]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/7.jpg"
+	thumbURL="thumbs/7.jpg"
+	linkURL="images/7.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\Website\avanish-try\fc-profy\img\portfolio\7.jpg">
+    <title><![CDATA[Notsure]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

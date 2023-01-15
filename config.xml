@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	useThumbDots="true"
+	useFullscreenExpand="true"
+	showOpenButton="true"
+	showExpandButton="true"
+	indexPageName="juice.html"
+
+>
+  <image imageURL="images/DSC_0186.jpg"
+	thumbURL="thumbs/DSC_0186.jpg"
+	linkURL="images/DSC_0186.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\wins\DSC_0186.JPG">
+    <title><![CDATA[DSC_0186]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_0187.jpg"
+	thumbURL="thumbs/DSC_0187.jpg"
+	linkURL="images/DSC_0187.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\wins\DSC_0187.JPG">
+    <title><![CDATA[DSC_0187]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_0188.jpg"
+	thumbURL="thumbs/DSC_0188.jpg"
+	linkURL="images/DSC_0188.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\wins\DSC_0188.JPG">
+    <title><![CDATA[DSC_0188]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_0189.jpg"
+	thumbURL="thumbs/DSC_0189.jpg"
+	linkURL="images/DSC_0189.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\wins\DSC_0189.JPG">
+    <title><![CDATA[DSC_0189]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_0190.jpg"
+	thumbURL="thumbs/DSC_0190.jpg"
+	linkURL="images/DSC_0190.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\wins\DSC_0190.JPG">
+    <title><![CDATA[DSC_0190]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_0191.jpg"
+	thumbURL="thumbs/DSC_0191.jpg"
+	linkURL="images/DSC_0191.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\wins\DSC_0191.JPG">
+    <title><![CDATA[DSC_0191]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_0192.jpg"
+	thumbURL="thumbs/DSC_0192.jpg"
+	linkURL="images/DSC_0192.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\wins\DSC_0192.JPG">
+    <title><![CDATA[DSC_0192]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/new.jpg"
+	thumbURL="thumbs/new.jpg"
+	linkURL="images/new.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\wins\new.jpg">
+    <title><![CDATA[new]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>
