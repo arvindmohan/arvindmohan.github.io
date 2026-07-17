@@ -1,0 +1,58 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Icon from '../components/Icon.astro';
+import { site } from '../data/site';
+import portrait from '../../img/background/ArvindPhoto.jpg';
+---
+<BaseLayout>
+  <section class="hero">
+    <div class="shell hero-grid">
+      <div class="hero-copy">
+        <p class="eyebrow">Computational physics · Scientific machine learning</p>
+        <h1>Arvind Mohan<span>Researcher in scientific machine learning, computational physics, and disaster resilience.</span></h1>
+        <p class="lede">I develop scientific machine-learning methods for high-dimensional, complex spatio-temporal systems.</p>
+        <p>My central question is how AI can improve computational physics without discarding the structure that makes physical models reliable. I study how learned models can represent multiscale dynamics, work with limited observations, remain stable over time, and communicate when their predictions should not be trusted.</p>
+        <div class="button-row">
+          <a class="button" href="/research/">Explore my research <Icon name="arrow" /></a>
+          <a class="button secondary" href="/publications/">Publications & contact <Icon name="arrow" /></a>
+        </div>
+      </div>
+      <figure class="portrait-wrap">
+        <img class="portrait" src={portrait.src} width={portrait.width} height={portrait.height} alt="Portrait of Arvind Mohan" />
+      </figure>
+    </div>
+  </section>
+
+  <section class="section shell">
+    <div class="section-heading">
+      <div><p class="eyebrow">Background</p><h2>About</h2></div>
+      <div>
+        <p>I am an aerospace engineer by training, with a PhD in Aeronautical and Astronautical Engineering from The Ohio State University. I have spent the past several years as a computational scientist, moving between fluid dynamics, earth systems, nuclear physics, biomedical flows, and scientific AI.</p>
+        <p>Disaster science is an important application of this work. My ongoing engagement with emergency managers has made clear that useful research must account for how evidence is produced, interpreted, and acted upon under real constraints. Those relationships help me formulate questions that connect rigorous computational science with operational needs.</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="section alt">
+    <div class="shell section-heading">
+      <div><p class="eyebrow">Research</p><h2>Current work</h2></div>
+      <div>
+        <p>My current work focuses on scientific machine learning for systems that are too large, nonlinear, or expensive to resolve repeatedly with high-fidelity simulation. I develop physics-informed models, reduced-order representations, and PDE surrogates that preserve important structure while making prediction and analysis computationally practical.</p>
+        <p>I also study the inference and verification problems around these models: reconstructing full physical fields from sparse measurements, testing stability over long time horizons, identifying behavior outside the training distribution, and quantifying uncertainty. The objective is not simply to reproduce simulation output, but to build models whose behavior can be understood and defended.</p>
+        <a class="text-link" href="/research/">Read more about my research <Icon name="arrow" /></a>
+      </div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="shell narrow">
+      <p class="eyebrow">Contact</p>
+      <h2>Collaboration and inquiries</h2>
+      <p class="lede">I welcome conversations with researchers, students, professionals and others working on scientific AI or disaster resilience.</p>
+      <div class="button-row">
+        <a class="button" href={`mailto:${site.email}`}>Email me <Icon name="mail" /></a>
+        {site.socials.map((link) => <a class="button secondary" href={link.href} target="_blank" rel="me noopener noreferrer">{link.label} <Icon name="external" /></a>)}
+      </div>
+    </div>
+  </section>
+</BaseLayout>

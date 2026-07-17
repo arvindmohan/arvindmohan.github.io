@@ -1,0 +1,19 @@
+---
+import { site } from '../data/site';
+const year = new Date().getFullYear();
+---
+<footer class="site-footer">
+  <div class="shell footer-grid">
+    <div>
+      <a class="footer-name" href="/">{site.name}</a>
+      <p>{site.role}</p>
+    </div>
+    <div class="footer-socials" aria-label="Social profiles">
+      {site.socials.map((link) => <a href={link.href} target="_blank" rel="me noopener noreferrer">{link.label}</a>)}
+    </div>
+  </div>
+  <div class="shell disclaimer">
+    <p>{site.disclaimer}</p>
+    <p>© {year} {site.name}. Built with Astro.</p>
+  </div>
+</footer>

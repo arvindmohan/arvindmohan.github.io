@@ -1,0 +1,9 @@
+---
+import BaseLayout from './BaseLayout.astro';
+import PageHeader from '../components/PageHeader.astro';
+const { frontmatter } = Astro.props;
+---
+<BaseLayout title={frontmatter.title} description={frontmatter.description}>
+  <PageHeader eyebrow={frontmatter.eyebrow} title={frontmatter.title} intro={frontmatter.description} />
+  <div class="shell narrow prose"><slot /></div>
+</BaseLayout>
