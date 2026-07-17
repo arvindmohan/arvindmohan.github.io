@@ -34,6 +34,6 @@ I speak about trustworthy scientific AI, physics-informed machine learning, spar
 
 I'm a public-facing point of contact for anyone interested in scientific AI, disaster resilience, or collaboration: researchers, emergency managers, students, and builders alike.
 
-- **Email:** [arvindm@lanl.gov](mailto:arvindm@lanl.gov)
+- **Email:** [contact@arvindtmohan.com](mailto:contact@arvindtmohan.com)
 - **Google Scholar:** [scholar.google.com/citations?user=kr8XW9oAAAAJ](https://scholar.google.com/citations?user=kr8XW9oAAAAJ)
 - **LinkedIn:** [linkedin.com/in/arvindtmohan](https://www.linkedin.com/in/arvindtmohan/)

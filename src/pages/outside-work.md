@@ -23,9 +23,7 @@ I travel whenever I can, usually with some kind of adventure involved. I enjoy b
   <figcaption>Ice climbing far above the Arctic Circle in Abisko National Park, Sweden.</figcaption>
 </figure>
 
-### Alaska
-
-Alaska is one of my favorite places in the world. I also work closely with the [State of Alaska Division of Homeland Security and Emergency Management](https://ready.alaska.gov/) and the [University of Alaska Fairbanks](https://www.uaf.edu/) on scientific AI for permafrost modeling and disaster mitigation—which gives me an excellent excuse to keep returning and exploring whenever I can.
+Alaska is one of my favorite places in the world. I also work closely with the [State of Alaska Division of Homeland Security and Emergency Management](https://ready.alaska.gov/) and the [University of Alaska Fairbanks](https://www.uaf.edu/) on scientific AI for permafrost modeling and disaster mitigation... which gives me an excellent excuse to keep returning and exploring whenever I can.
 
 <figure class="activity-gallery activity-gallery--alaska">
   <div>
@@ -33,7 +31,7 @@ Alaska is one of my favorite places in the world. I also work closely with the [
     <img src="/images/beyond-research/gates-arctic-2.jpeg" width="1400" height="1050" loading="lazy" alt="Arvind in the Brooks Range tundra near Anaktuvuk Pass, Alaska." />
     <img src="/images/beyond-research/gates-arctic-3.jpeg" width="1050" height="1400" loading="lazy" alt="A remote river valley winding through the Brooks Range under low clouds in Gates of the Arctic National Park." />
   </div>
-  <figcaption><strong>Seven days alone in the Brooks Range.</strong> Solo backpacking near Anaktuvuk Pass in Gates of the Arctic National Park: no roads, no trails, and no one else in sight. Had to be get on a bush plane to drop me off. The pilot was (half) joking I won't make it back...</figcaption>
+  <figcaption><strong>Many days alone in the Brooks Range.</strong> Solo backpacking near Anaktuvuk Pass in Gates of the Arctic National Park: no roads, no trails, and no one else in sight. Had to be get on a bush plane to drop me off. The pilot was (half) joking I won't make it back...</figcaption>
 </figure>
 
 ## Flying

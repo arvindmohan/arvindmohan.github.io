@@ -3,7 +3,7 @@ export const site = {
   credential: 'Ph.D.',
   role: 'Researcher in scientific machine learning, computational physics, and disaster resilience',
   description: 'Personal website of Arvind T. Mohan: scientific AI, physics-informed machine learning, trustworthy PDE surrogates, sparse sensing, and disaster resilience.',
-  email: 'arvindm@lanl.gov',
+  email: 'contact@arvindtmohan.com',
   location: 'Northern New Mexico, USA',
   socials: [
     { label: 'Google Scholar', href: 'https://scholar.google.com/citations?user=kr8XW9oAAAAJ' },
