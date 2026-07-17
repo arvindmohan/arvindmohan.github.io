@@ -39,6 +39,13 @@ This perspective has taken my work across fluid dynamics, geophysical hazards, e
 
 I care about a broad range of scientific applications, but disaster science is a primary focus of mine. It brings the technical questions above into a setting where uncertainty, timeliness, and accessibility have direct consequences. I am especially interested in cascading infrastructure failures, impact-based early warning, and hazards such as wildfires, permafrost melt and tsunamis, and ways to make rigorous hazard analysis more available to the people responsible for protecting communities.
 
+<figure class="video-feature">
+  <div>
+    <iframe src="https://www.youtube-nocookie.com/embed/wODkRx0fdfc" title="Bridging Nerdville and Fieldville — Arvind Mohan at CNG 2025" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  </div>
+  <figcaption><strong>Bridging “Nerdville” and “Fieldville.”</strong> A lightning talk at CNG 2025 about closing the gap between scientific AI research and disaster practice.</figcaption>
+</figure>
+
 What makes disaster science especially compelling to me is that the gap between academic capability and operational usefulness is not merely an engineering problem. It cannot be closed simply by placing a better interface around an existing model. The scientific questions themselves often need to be reformulated around how hazards unfold, what information is available in time, how decisions are made under uncertainty, and which consequences matter in a particular community. Bridging research and practice therefore requires us to rethink—and often re-research—the entire problem, from its initial formulation to the way evidence is communicated and used.
 
 I believe this gap is where some of the most consequential work remains to be done. My aim is to help build a stronger bridge between academic science and disaster practice, so that new methods are developed with operational realities in view from the beginning. This perspective is grounded in ongoing, largely pro bono work with emergency managers and disaster-response organizations at federal, state, and local levels. Those relationships help me identify research questions that matter operationally, and I welcome collaborators who want to help close the gap between academic science and disaster practice.
