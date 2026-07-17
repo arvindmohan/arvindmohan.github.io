@@ -3,3 +3,8 @@ dist/
 .astro/
 .DS_Store
 *.log
+
+# Original photos are retained locally; optimized copies live in public/images/.
+images/alaska_*.jpeg
+images/ice_climb*.jpeg
+images/pilot*.jpg

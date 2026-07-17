@@ -33,14 +33,19 @@ Alaska is one of my favorite places in the world. I also work closely with the [
     <img src="/images/beyond-research/gates-arctic-2.jpeg" width="1400" height="1050" loading="lazy" alt="Arvind in the Brooks Range tundra near Anaktuvuk Pass, Alaska." />
     <img src="/images/beyond-research/gates-arctic-3.jpeg" width="1050" height="1400" loading="lazy" alt="A remote river valley winding through the Brooks Range under low clouds in Gates of the Arctic National Park." />
   </div>
-  <figcaption><strong>Seven days alone in the Brooks Range.</strong> Solo backpacking near Anaktuvuk Pass in Gates of the Arctic National Park—no roads, no trails, and no one else in sight.</figcaption>
+  <figcaption><strong>Seven days alone in the Brooks Range.</strong> Solo backpacking near Anaktuvuk Pass in Gates of the Arctic National Park: no roads, no trails, and no one else in sight. Had to be get on a bush plane to drop me off. The pilot was (half) joking I won't make it back...</figcaption>
 </figure>
 
-## Glider pilot
+## Flying
 
-Gliding is flying stripped down to the essentials. Without an engine, you learn to manage energy and feel what the aircraft and the air are doing rather than relying on power. It develops a very intuitive kind of piloting—and every landing is committed, because there is no go-around. That certainly keeps things interesting.
+Being a pilot who chooses gliders means learning to fly stripped down to the essentials. Without an engine, you learn to manage energy and feel what the aircraft and the air are doing rather than relying on punching through the air with power. It develops a very intuitive kind of piloting "stick and rudder skills" as its known.
 
-The best part is how directly it connects you with the atmosphere. Thermals, ridge lift, sink, wind, and terrain: all the nerdy things I love about atmospheric physics and fluid dynamics suddenly become something I can feel through the controls and use to stay airborne. Nothing like putting a little skin in the game to find out whether I actually understand how air moves.
+And oh, you get ONE chance to land. For a pilot on a power plane, that is an emergency landing. Lucky for us, every landing is an emergency landing :D.
+
+The best part of flying gliders is how directly it connects you with nature and aerodynamics. All that you need to climb high and soar for hours is Mother Nature. And not having an engine means its super quiet up there while you sit fighter-pilot style and look at the earth below.
+
+This also means I have to intuitively feel how the air moves: Thermals, ridge lift, sink, wind, and their impact on the aerodynamics... all the nerdy phenomena I love from fluid dynamics suddenly become something I can feel through the controls and use to stay airborne.
+Nothing like putting a little skin in the game to find out whether <em>I actually understand</em> the field I got my PhD in.
 
 <figure class="activity-gallery activity-gallery--pilot">
   <div>
@@ -48,4 +53,12 @@ The best part is how directly it connects you with the atmosphere. Thermals, rid
     <img src="/images/beyond-research/glider-pilot-2.jpeg" width="1400" height="1050" loading="lazy" alt="A white two-seat glider parked outside its hangar." />
   </div>
   <figcaption>No engine, no go-around—and suddenly fluid dynamics feels very practical.</figcaption>
+</figure>
+
+
+I fly out of Moriarty Airport, New Mexico (0E0) which is close to Albuquerque Class C airspace, so we have to be mindful of commercial airline traffic, and occasional power pilots buzzing around without radio calls. Moriarty is a world class soaring spot and has truly exceptional pilots flying for far longer than I've been alive. Every day flying with them is an invaluable learning experience.
+
+<figure class="activity-map">
+  <img src="/images/beyond-research/moriarty-sectional.jpg" width="1800" height="854" loading="lazy" alt="Aeronautical sectional chart showing Moriarty Airport east of Albuquerque and the nearby Albuquerque Class C airspace." />
+  <figcaption>Moriarty Airport (0E0), just east of Albuquerque's Class C airspace.</figcaption>
 </figure>

@@ -32,7 +32,7 @@ I speak about trustworthy scientific AI, physics-informed machine learning, spar
 
 ## Contact
 
-I'm a public-facing point of contact for anyone interested in scientific AI, disaster resilience, or collaboration—researchers, emergency managers, students, and builders alike.
+I'm a public-facing point of contact for anyone interested in scientific AI, disaster resilience, or collaboration: researchers, emergency managers, students, and builders alike.
 
 - **Email:** [arvindm@lanl.gov](mailto:arvindm@lanl.gov)
 - **Google Scholar:** [scholar.google.com/citations?user=kr8XW9oAAAAJ](https://scholar.google.com/citations?user=kr8XW9oAAAAJ)

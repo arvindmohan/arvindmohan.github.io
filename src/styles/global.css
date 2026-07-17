@@ -67,6 +67,12 @@ p { margin: 0 0 1.15rem; }
 .section-heading { display: grid; grid-template-columns: .45fr 1.25fr; gap: 2rem; align-items: end; margin-bottom: 3rem; }
 .section-heading h2 { margin: 0; font-size: clamp(2.2rem, 4vw, 3.7rem); }
 .section-heading p { margin: 0; color: var(--muted); }
+.affiliations { margin-top: 2rem; padding-top: 1.4rem; border-top: 1px solid var(--line); }
+.affiliations h3 { margin: 0 0 .75rem; font-family: var(--sans); font-size: .72rem; font-weight: 600; text-transform: uppercase; letter-spacing: .12em; color: var(--accent); }
+.affiliations ul { margin: 0; padding: 0; list-style: none; }
+.affiliations li { display: grid; grid-template-columns: 145px 1fr; gap: 1rem; padding: .8rem 0; border-bottom: 1px solid var(--line); }
+.affiliations strong { font-size: .84rem; font-weight: 600; }
+.affiliations span { color: var(--muted); font-size: .84rem; line-height: 1.5; }
 .text-link { display: inline-flex; align-items: center; gap: .45rem; font-size: .84rem; font-weight: 600; text-decoration: none; }
 .text-link:hover .icon { transform: translateX(3px); }
 .cards { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); border-top: 1px solid var(--line); }
@@ -125,6 +131,9 @@ p { margin: 0 0 1.15rem; }
 .activity-gallery--pilot > div { grid-template-columns: .75fr 1.25fr; align-items: stretch; }
 .activity-gallery--pilot img { height: clamp(250px, 32vw, 340px); aspect-ratio: auto; }
 .activity-gallery figcaption strong { color: var(--ink); }
+.activity-map { max-width: 720px; margin: 2rem 0 2.75rem; }
+.activity-map img { width: 100%; height: auto; border: 1px solid var(--line); }
+.activity-map figcaption { margin-top: .65rem; color: var(--muted); font-size: .78rem; }
 .project-meta { display: grid; grid-template-columns: repeat(3, 1fr); gap: 1rem; margin-bottom: 2.5rem; padding: 1.2rem; background: var(--surface); border: 1px solid var(--line); }
 .project-meta strong { display: block; color: var(--accent); font-size: .7rem; text-transform: uppercase; letter-spacing: .1em; }
 .project-meta span { font-size: .86rem; }
@@ -172,6 +181,7 @@ p { margin: 0 0 1.15rem; }
   .hero h1 span { font-size: clamp(1.55rem, 7vw, 2rem); }
   .portrait-wrap { width: calc(100% - 1rem); max-width: 520px; justify-self: center; margin-top: 1rem; }
   .section-heading { grid-template-columns: 1fr; gap: .8rem; }
+  .affiliations li { grid-template-columns: 1fr; gap: .15rem; }
   .cards, .contact-grid { grid-template-columns: 1fr; }
   .project-card, .project-card:nth-child(2n) { padding: 1.7rem 0; border-left: 0; }
   .publication { grid-template-columns: 1fr; gap: .25rem; }
