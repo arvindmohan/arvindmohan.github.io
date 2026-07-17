@@ -41,7 +41,7 @@ I care about a broad range of scientific applications, but disaster science is a
 
 <figure class="video-feature">
   <div>
-    <iframe src="https://www.youtube-nocookie.com/embed/wODkRx0fdfc" title="Bridging Nerdville and Fieldville — Arvind Mohan at CNG 2025" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <iframe src="https://www.youtube-nocookie.com/embed/wODkRx0fdfc" title="Bridging Nerdville and Fieldville — Arvind T. Mohan at CNG 2025" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
   </div>
   <figcaption><strong>Bridging “Nerdville” and “Fieldville.”</strong> A lightning talk at CNG 2025 about closing the gap between scientific AI research and disaster practice.</figcaption>
 </figure>

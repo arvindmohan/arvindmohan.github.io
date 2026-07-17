@@ -5,11 +5,11 @@ eyebrow: Other activities
 description: ""
 ---
 
-When I am not working, I try to spend as much time as I can outdoors—or in the air.
+When I am not working, I try to spend as much time as I can outdoors... or in the air.
 
 ## Mountain Rescue First Responder
 
-I serve as a mountain and high-altitude rescue first responder. It is meaningful work, and I enjoy being part of a team that heads into the mountains when someone needs help.
+I volunteer as a first responder in Atalaya Search and Rescue, Santa Fe, NM which is a group filled with many exceptional individuals rated in wilderness, mountain and high-altitude rescue in Northern New Mexico. Almost all wilderness/mountain rescue in the US is volunteer run, so teams like these fill an important part of public safety infrastructure. Most of these teams are donation-supported and do not charge the subjects they rescue. Please support your local team!
 
 ## Arctic Adventures
 

@@ -1,4 +1,4 @@
-# Arvind Mohan — personal research website
+# Arvind T. Mohan — personal research website
 
 A fast, static personal website built with [Astro](https://astro.build/) and deployed through GitHub Pages. It presents research in scientific AI, physics-informed machine learning, and disaster resilience. The site is personal and does not represent any employer or affiliated institution.
 

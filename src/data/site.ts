@@ -1,8 +1,8 @@
 export const site = {
-  name: 'Arvind Mohan',
+  name: 'Arvind T. Mohan',
   credential: 'Ph.D.',
   role: 'Researcher in scientific machine learning, computational physics, and disaster resilience',
-  description: 'Personal website of Arvind Mohan: scientific AI, physics-informed machine learning, trustworthy PDE surrogates, sparse sensing, and disaster resilience.',
+  description: 'Personal website of Arvind T. Mohan: scientific AI, physics-informed machine learning, trustworthy PDE surrogates, sparse sensing, and disaster resilience.',
   email: 'arvindm@lanl.gov',
   location: 'Northern New Mexico, USA',
   socials: [
