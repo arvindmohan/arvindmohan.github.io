@@ -1,6 +1,6 @@
 ---
 layout: ../layouts/MarkdownLayout.astro
-title: Outside Work
+title: Fun
 eyebrow: Other activities
 description: ""
 ---

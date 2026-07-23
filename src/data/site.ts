@@ -16,5 +16,5 @@ export const navigation = [
   { label: 'About', href: '/' },
   { label: 'Research', href: '/research/' },
   { label: 'Publications, talks & contact', href: '/publications/' },
-  { label: 'Outside work', href: '/outside-work/' },
+  { label: 'Fun', href: '/outside-work/' },
 ];
