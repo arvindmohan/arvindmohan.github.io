@@ -25,11 +25,11 @@ The production site is generated in `dist/`.
 - Home and biography: `src/pages/index.astro`
 - Research themes: `src/pages/research.md`
 - Publications, talks, and contact: `src/pages/publications.md`
-- Personal activities and photo galleries: `src/pages/outside-work.md`
+- Personal activities and photo galleries: `src/pages/fun.md`
 - Name, email, profile links, navigation, and footer disclaimer: `src/data/site.ts`
 - Global visual design: `src/styles/global.css`
 
-The main public routes are `/`, `/research/`, `/publications/`, and `/outside-work/`. Most prose is ordinary Markdown; the home page uses Astro markup for its richer layout.
+The main public routes are `/`, `/research/`, `/publications/`, and `/fun/`. Most prose is ordinary Markdown; the home page uses Astro markup for its richer layout.
 
 ## Add a publication
 
